@@ -39,3 +39,5 @@ INSERT INTO dbo.Bibliotecario (ID_Bibliotecario, Nombre, Apellido) VALUES (18, '
 INSERT INTO dbo.Bibliotecario (ID_Bibliotecario, Nombre, Apellido) VALUES (19, 'Walter', 'Arias')
 INSERT INTO dbo.Bibliotecario (ID_Bibliotecario, Nombre, Apellido) VALUES (20, 'Deysi', 'Salas')
 
+
+
