@@ -178,5 +178,8 @@
     <PostDeploy Include="Scripts\Autor.sql" />
     <None Include="Scripts\Favorito.sql" />
     <None Include="Scripts\Ranking.sql" />
+    <None Include="Scripts\Usuario.sql" />
+    <None Include="Scripts\Bibliotecario.sql" />
+    <None Include="Scripts\Editorial.sql" />
   </ItemGroup>
 </Project>
