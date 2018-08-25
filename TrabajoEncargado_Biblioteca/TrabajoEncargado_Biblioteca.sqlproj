@@ -183,5 +183,7 @@
     <None Include="Scripts\Editorial.sql" />
     <None Include="Scripts\Detalle_Publicacion.sql" />
     <None Include="Scripts\Libro.sql" />
+    <None Include="Scripts\Historial.sql" />
+    <None Include="Scripts\Prestamo.sql" />
   </ItemGroup>
 </Project>
