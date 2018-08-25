@@ -174,4 +174,9 @@
     </Build>
     <Build Include="Security\Permissions.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Scripts\Autor.sql" />
+    <None Include="Scripts\Favorito.sql" />
+    <None Include="Scripts\Ranking.sql" />
+  </ItemGroup>
 </Project>
