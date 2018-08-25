@@ -181,5 +181,7 @@
     <None Include="Scripts\Usuario.sql" />
     <None Include="Scripts\Bibliotecario.sql" />
     <None Include="Scripts\Editorial.sql" />
+    <None Include="Scripts\Detalle_Publicacion.sql" />
+    <None Include="Scripts\Libro.sql" />
   </ItemGroup>
 </Project>
